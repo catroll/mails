@@ -6,7 +6,7 @@ from mails.skeleton import fib
 
 __author__ = "catroll"
 __copyright__ = "catroll"
-__license__ = "mit"
+__license__ = "gpl3"
 
 
 def test_fib():

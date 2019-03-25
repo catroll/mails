@@ -24,7 +24,7 @@ from mails import __version__
 
 __author__ = "catroll"
 __copyright__ = "catroll"
-__license__ = "mit"
+__license__ = "gpl3"
 
 _logger = logging.getLogger(__name__)
 
